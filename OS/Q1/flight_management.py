@@ -10,7 +10,7 @@ import random
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="passing_clouds_123",
+    password="#Enter your mysql password here",
     database="flight_management"
 )
 
